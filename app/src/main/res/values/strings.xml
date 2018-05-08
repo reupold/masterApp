@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Masterapp</string>
+    <string name="essen_name">Essen</string>
+    <string name="mvv_name">MVV</string>
+    <string name="navi_name">Haus Navigation</string>
+    <string name="prof_name">Professoren</string>
+    <string name="schwBr_name">Schwarzes Brett</string>
+    <string name="vorl_name">Vorlesungsplan</string>
+</resources>

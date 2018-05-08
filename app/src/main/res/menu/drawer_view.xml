@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/_essen"
+            android:icon="@drawable/ic_help"
+            android:title="@string/essen_name"/>
+        <item
+            android:id="@+id/_mvv"
+            android:icon="@drawable/ic_help"
+            android:title="@string/mvv_name"/>
+        <item
+            android:id="@+id/_navigation_haus"
+            android:icon="@drawable/ic_help"
+            android:title="@string/navi_name"/>
+        <item
+            android:id="@+id/_prof"
+            android:icon="@drawable/ic_help"
+            android:title="@string/prof_name"/>
+        <item
+            android:id="@+id/_schw_brett"
+            android:icon="@drawable/ic_help"
+            android:title="@string/schwBr_name"/>
+        <item
+            android:id="@+id/_vorlesung"
+            android:icon="@drawable/ic_help"
+            android:title="@string/vorl_name"/>
+    </group>
+</menu>
